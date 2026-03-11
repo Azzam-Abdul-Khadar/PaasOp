@@ -1,6 +1,6 @@
 # 🚀 PaasOp
 
-> **PaasOp** is a modern web platform for [describe your project purpose—e.g., managing deployments, offering PaaS utilities, etc.].  
+> **PaasOp** is a modern web platform for storing your Urls, Names and Passwords in one place.  
 > Build, deploy, and operate applications seamlessly with powerful tools and intuitive interfaces.
 ---
 
@@ -20,8 +20,6 @@ Include a short description of the problem it solves and who the project is for.
 ✔ Modular plugin system  
 ✔ Responsive UI for management
 
-*Add/modify features relevant to your project.*
-
 ---
 
 ## 💻 Tech Stack
@@ -32,8 +30,6 @@ Include a short description of the problem it solves and who the project is for.
 | Backend | Node.js / Express |
 | Database | MongoDB |
 | Authentication | JWT / OAuth |
-
-*Update the stack to reflect your actual technologies.*
 
 ---
 
