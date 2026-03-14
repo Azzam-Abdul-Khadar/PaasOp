@@ -32,11 +32,3 @@ Include a short description of the problem it solves and who the project is for.
 | Authentication | JWT / OAuth |
 
 ---
-
-## 🚀 Getting Started
-
-### 📥 Clone the Repo
-
-```bash
-git clone https://github.com/Azzam-Abdul-Khadar/PaasOp.git
-cd PaasOp
